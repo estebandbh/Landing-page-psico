@@ -300,7 +300,7 @@ body {
 }
 
 .col{
-   padding-top: 40%;
+   padding-top: 10%;
 }
 .col ul li a{
   color: var(--text-color);
